@@ -47,7 +47,6 @@ career-profile:
       17 Jahre IT-Erfahrung! 
 
 education:
-  title: Bildung
     - degree: Bachelor of Science, Informatik
       university: Hochschule Coburg
       time: 2012 - 2017
@@ -60,7 +59,6 @@ education:
         Büro Mayer GmbH & Co. KG
 
 experiences:
-  title: Berufserfahrung
     - role: Softwareentwickler
       time: 2017 - Aktuell
       company: Docufy GmbH
@@ -74,13 +72,10 @@ experiences:
       time: 2007 - 2012
       company: Lunz Computersysteme AG, Bamberg
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        IT-Fieldservice bei BOSCH, Bamberg
+          - Betreuung von IT-Systeme in Entwicklungs- und Fertigungsbereichen
+          - Second-Level-Support
+          - First-Level-Support Active-Directory
     - role: IT-Systemelektroniker
       time: 2005 - 2006
       company: Büro Mayer GmbH & Co. KG, Hallstadt
