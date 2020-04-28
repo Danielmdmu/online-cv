@@ -9,14 +9,14 @@ sidebar:
     # Profile information
     name: Daniel Müller 
     tagline: Softwareentwickler
-    #avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: post@müller-systems.de
     #phone: 012 345 6789
     website: www.müller-systems.de #do not add http://
     linkedin: daniel-müller-81709b131
-    #github: sharu725
+    github: Danielmdmu
     #gitlab:
     #bitbucket:
     #twitter: '@webjeda'
