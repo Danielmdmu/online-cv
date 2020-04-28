@@ -47,6 +47,7 @@ career-profile:
       17 Jahre IT-Erfahrung! 
 
 education:
+  title: Bildung
     - degree: Bachelor of Science, Informatik
       university: Hochschule Coburg
       time: 2012 - 2017
@@ -59,6 +60,7 @@ education:
         Büro Mayer GmbH & Co. KG
 
 experiences:
+  title: Berufserfahrung
     - role: Softwareentwickler
       time: 2017 - Aktuell
       company: Docufy GmbH
