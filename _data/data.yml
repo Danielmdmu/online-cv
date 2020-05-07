@@ -26,10 +26,10 @@ sidebar:
 
     languages:
       - idiom: Deutsch
-        level: Native
+        level: Muttersprache
 
       - idiom: English
-        level: Professional
+        level: B2
 
     # interests:
     #   - item: Climbing
@@ -44,7 +44,16 @@ sidebar:
 career-profile:
     title: Profil
     summary: |
-      17 Jahre IT-Erfahrung! 
+      17 Jahre IT-Erfahrung!
+      Nach meiner Ausbildung zum IT-Systemelektroniker und meinem 1-jährigen Wehrdienst, war ich 5 Jahre für Lunz Computersysteme AG als externer Dienstleister im Bamberger Werk der Robert Bosch GmbH tätig.
+      Hier konnte ich viel Erfahrung im Bereich der industriellen IT-Systeme sammeln. 
+      Nach der Suche einer geeigneten Weiterbildungsmöglichkeit kam ich zu dem Entschluss ein Informatik Studium an der Hochschule Coburg zu starten.
+      Während des Studiums entwickelte ich eine Leidenschaft für alles was mit Softwareentwicklung zu tun hat. 
+      Das erlernte Wissen konnte ich direkt während des Studiums während meiner Werkstudententätigkeit bei Brose unter Beweis stellen.
+      Nach dem Studium habe ich bei der Docufy GbmH die Chance bekommen mein Wissen im .Net-Bereich zu vertiefen und für die Neuentwicklung eines Desktop-Clients verantwortlich zu sein.
+      Neben meiner Haupttätigkeit als Entwickler des Desktop-Clients habe ich mich intensiv mit der Entwicklung von Single-Sign-On Szenarien auf Basis von OpendID Connect beschäftigt. 
+      Begünstigt durch meine Tätigkeit als Administrator, entwickelte ich auch ein besonderes Interesse für Dev-Ops Themen.
+      Insbesondere der Automatisierung von Tätigkeiten im Bereich der Softwareentwicklung. 
 
 education:
     - degree: Bachelor of Science, Informatik
@@ -56,30 +65,35 @@ education:
       time: 2002 - 2005
       details: |
         Ausbildung zum IT-Systemelekroniker
-        Büro Mayer GmbH & Co. KG
+        Büro Mayer GmbH & Co. KG, Hallstadt
 
 experiences:
     - role: Softwareentwickler
       time: 2017 - Aktuell
-      company: Docufy GmbH
+      company: Docufy GmbH, Bamberg
       details: |
-        .NET Entwicklung:
-          - C#
-          - WPF
-          - ReactiveUI
-          - Entity Framework
+        - Neuentwicklung eines Desktop-Clients 
+    - role: Werkstudent
+      time: 2013 - 2017
+      company: Brose GmbH, Hallstadt
+      details: |
+        - .NET-Entwicklung (WPF u. ASP.NET)
     - role: Administrator
       time: 2007 - 2012
       company: Lunz Computersysteme AG, Bamberg
       details: |
-        IT-Fieldservice bei BOSCH, Bamberg
+        Externer Dienstleister, IT-Fieldservice, Bosch, Werk Bamberg
           - Betreuung von IT-Systeme in Entwicklungs- und Fertigungsbereichen
           - Second-Level-Support
           - First-Level-Support Active-Directory
+    - role: Wehrdienst
+      time: 2006 - 2007
+      company: Bundeswehr, Infanterieschule Hammelburg
     - role: IT-Systemelektroniker
       time: 2005 - 2006
       company: Büro Mayer GmbH & Co. KG, Hallstadt
-      details:      
+      details: |
+        Übernahme nach der Ausbildung  
 
 # projects:
 #     title: Projects
@@ -130,27 +144,30 @@ experiences:
 #         authors: Edgar T. Irons
 #         conference: "Comm. ACM 4 (1961), 51–55"
 
-# skills:
-#     title: Skills
+skills:
+    title: Skills
 
-#     toolset:
-#       - name: .NET
-#         level: 90%
+    toolset:
+      - name: .NET
+        level: 90%
 
-#       - name: C#
-#         level: 90%
+      - name: C#
+        level: 90%
 
-#       - name: Angular
-#         level: 98%
+      - name: WPF
+        level: 85%
 
-#       - name: HTML5 & CSS
-#         level: 95%
+      - name: OIDC/OAuth 2.0
+        level: 90%
 
-#       - name: Ruby on Rails
-#         level: 85%
+      - name: HTML5 & CSS
+        level: 50%
 
-#       - name: Sketch & Photoshop
-#         level: 60%
+      - name: Active Directory
+        level: 60%
+
+      - name: C++
+        level: 20%
 
 # footer: >
 #     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
