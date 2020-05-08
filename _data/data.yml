@@ -52,7 +52,7 @@ career-profile:
       Das erlernte Wissen konnte ich direkt während des Studiums während meiner Werkstudententätigkeit bei Brose unter Beweis stellen.
       Nach dem Studium habe ich bei der Docufy GbmH die Chance bekommen mein Wissen im .Net-Bereich zu vertiefen und für die Neuentwicklung eines Desktop-Clients verantwortlich zu sein.
       Neben meiner Haupttätigkeit als Entwickler des Desktop-Clients habe ich mich intensiv mit der Entwicklung von Single-Sign-On Szenarien auf Basis von OpendID Connect beschäftigt. 
-      Begünstigt durch meine Tätigkeit als Administrator, entwickelte ich auch ein besonderes Interesse für Dev-Ops Themen.
+      Begünstigt durch meine Erfahrungen als Administrator, entwickelte ich auch ein besonderes Interesse für Dev-Ops Themen.
       Insbesondere der Automatisierung von Tätigkeiten im Bereich der Softwareentwicklung. 
 
 education:
@@ -92,35 +92,15 @@ experiences:
     - role: IT-Systemelektroniker
       time: 2005 - 2006
       company: Büro Mayer GmbH & Co. KG, Hallstadt
-      details: |
-        Übernahme nach der Ausbildung  
+      details: Übernahme nach der Ausbildung  
 
-# projects:
-#     title: Projects
-#     intro: >
-#       You can list your side projects or open source libraries in this
-#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#     assignments:
-#       - title: Velocity
-#         link: "#hook"
-#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-#       - title: DevStudio
-#         link: "#"
-#         tagline: "A responsive website template designed to help web developers/designers market their services."
-
-#       - title: Tempo
-#         link: "#"
-#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-#       - title: Atom
-#         link: "#"
-#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-#       - title: Delta
-#         link: "#"
-#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+projects:
+    title: Projekte
+    intro: >
+      Hier ist eine kleine Auswahl an Nebenprojekten der letzten Jahre
+    assignments:
+      - title: SSO-Szenario mit Azure-AD
+        tagline: Anbindung eines Applikations-Servers über OIDC an Azure-AD. 
 
 # publications:
 #     title: Publications
@@ -149,19 +129,19 @@ skills:
 
     toolset:
       - name: .NET
-        level: 90%
+        level: 80%
 
       - name: C#
         level: 90%
 
       - name: WPF
-        level: 85%
+        level: 80%
 
       - name: OIDC/OAuth 2.0
         level: 90%
 
       - name: HTML5 & CSS
-        level: 50%
+        level: 40%
 
       - name: Active Directory
         level: 60%
