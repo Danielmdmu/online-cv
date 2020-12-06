@@ -73,12 +73,13 @@ experiences:
       company: Docufy GmbH, Bamberg
       details: |
         - Neuentwicklung eines Desktop-Clients 
+        - Identity and Access Management (IAM), OpenID Connect u. OAuth2 
     - role: Werkstudent
       time: 2013 - 2017
       company: Brose GmbH, Hallstadt
       details: |
         - .NET-Entwicklung (WPF u. ASP.NET)
-    - role: Administrator
+    - role: IT-Administrator
       time: 2007 - 2012
       company: Lunz Computersysteme AG, Bamberg
       details: |
