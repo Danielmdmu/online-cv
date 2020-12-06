@@ -45,15 +45,10 @@ career-profile:
     title: Profil
     summary: |
       17 Jahre IT-Erfahrung!
-      Nach meiner Ausbildung zum IT-Systemelektroniker und meinem 1-jährigen Wehrdienst, war ich 5 Jahre für Lunz Computersysteme AG als externer Dienstleister im Bamberger Werk der Robert Bosch GmbH tätig.
-      Hier konnte ich viel Erfahrung im Bereich der industriellen IT-Systeme sammeln. 
-      Nach der Suche einer geeigneten Weiterbildungsmöglichkeit kam ich zu dem Entschluss ein Informatik Studium an der Hochschule Coburg zu starten.
-      Während des Studiums entwickelte ich eine Leidenschaft für alles was mit Softwareentwicklung zu tun hat. 
-      Das erlernte Wissen konnte ich direkt während des Studiums während meiner Werkstudententätigkeit bei Brose unter Beweis stellen.
-      Nach dem Studium habe ich bei der Docufy GbmH die Chance bekommen mein Wissen im .Net-Bereich zu vertiefen und für die Neuentwicklung eines Desktop-Clients verantwortlich zu sein.
-      Neben meiner Haupttätigkeit als Entwickler des Desktop-Clients habe ich mich intensiv mit der Entwicklung von Single-Sign-On Szenarien auf Basis von OpendID Connect beschäftigt. 
-      Begünstigt durch meine Erfahrungen als Administrator, entwickelte ich auch ein besonderes Interesse für Dev-Ops Themen.
-      Insbesondere der Automatisierung von Tätigkeiten im Bereich der Softwareentwicklung. 
+      - IT-Systemelektroniker
+      - B.Sc. Informatik, Fachrichtung Softwaretechnik
+      - Softwareentwickler, .NET
+      - IT-Architekt
 
 education:
     - degree: Bachelor of Science, Informatik
@@ -68,8 +63,13 @@ education:
         Büro Mayer GmbH & Co. KG, Hallstadt
 
 experiences:
+    - role: IT-Architekt
+      time: 2020 - Aktuell
+      company: Lunz Computersysteme AG, Bamberg
+      details: |
+        - Cloud-Strategie
     - role: Softwareentwickler
-      time: 2017 - Aktuell
+      time: 2017 - 2020
       company: Docufy GmbH, Bamberg
       details: |
         - Neuentwicklung eines Desktop-Clients 
@@ -85,7 +85,7 @@ experiences:
         Externer Dienstleister, IT-Fieldservice, Bosch, Werk Bamberg
           - Betreuung von IT-Systeme in Entwicklungs- und Fertigungsbereichen
           - Second-Level-Support
-          - First-Level-Support Active-Directory
+          - First-Level-Support, Active-Directory
     - role: Wehrdienst
       time: 2006 - 2007
       company: Bundeswehr, Infanterieschule Hammelburg
