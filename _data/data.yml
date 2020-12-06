@@ -150,6 +150,6 @@ skills:
       - name: C++
         level: 20%
 
-footer: >
-<a href="https://www.müller-systems.de">Zurück</a>
+#footer: >
+# <a href="https://www.müller-systems.de">Zurück</a>
 #     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
