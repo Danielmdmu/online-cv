@@ -44,7 +44,7 @@ sidebar:
 career-profile:
     title: Profil
     summary: |
-      17 Jahre IT-Erfahrung!
+      18 Jahre IT-Erfahrung!
       - IT-Systemelektroniker
       - B.Sc. Informatik, Fachrichtung Softwaretechnik
       - Softwareentwickler, .NET
@@ -68,6 +68,8 @@ experiences:
       company: Lunz Computersysteme AG, Bamberg
       details: |
         - Cloud-Strategie
+        - Projektmanagement
+        - Technical Pre-Sales
     - role: Softwareentwickler
       time: 2017 - 2020
       company: Docufy GmbH, Bamberg
